@@ -49,3 +49,11 @@ Generated-in-code assets are original and have no file to list:
 | `docs/brand/artcraft-mark-black.svg` | ArtCraft Team | storytold/craftrules `assets/brand/` | ArtCraft brand terms (`docs/brand/LICENSE-brand.txt`) | Trademark, not open source |
 | `docs/brand/artcraft-mark.png` | ArtCraft Team | storytold/craftrules `assets/brand/` | ArtCraft brand terms (`docs/brand/LICENSE-brand.txt`) | Trademark, not open source |
 | `docs/brand/artcraft-mark.svg` | ArtCraft Team | storytold/craftrules `assets/brand/` | ArtCraft brand terms (`docs/brand/LICENSE-brand.txt`) | Trademark, not open source |
+
+## Independent custom desktop icons
+
+| Path | Title | Creator | Source | Licence | Added | Modifications |
+|---|---|---|---|---|---|---|
+| `custom-icons/` | CADCraft custom shortcut icon | @timsamart (AI-assisted with OpenAI imagegen) | Original generated work; `custom-icons/generation-prompt.txt` | MIT (`custom-icons/LICENSE.txt`) | 2026-10-09 | Extracted from one sheet; resized and packaged with Pillow |
+| `custom-icons/cadcraft.png` | Custom desktop icon | @timsamart (AI-assisted with OpenAI imagegen) | Original generated work | MIT (`custom-icons/LICENSE.txt`) | 2026-10-09 | Extracted and resized with Pillow |
+| `custom-icons/cadcraft.ico` | Custom desktop icon | @timsamart (AI-assisted with OpenAI imagegen) | Original generated work | MIT (`custom-icons/LICENSE.txt`) | 2026-10-09 | Extracted and resized with Pillow |
